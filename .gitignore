@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.idea
+.idea/
+.vscode
+composer.lock
+/redis_.patch
+tick.log
+codeStyleConfig.xml
+.idea/codeStyles/codeStyleConfig.xml
+.pyc
+output.zip
+*.pyc
+
